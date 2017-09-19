@@ -4,6 +4,8 @@
 [![bitHound Score][bithound-badge]][bithound]
 [![Gitter][gitter-badge]][gitter-rnmk]
 
+**Fork of react-native-material-kit, as to fix a build error in ReactMaterialKitPackage.java.**
+
 <a href="https://www.jetbrains.com/" title="Built with JetBrains IDEs">
   <img src="http://www.xinthink.com/react-native-material-kit/images/logo_JetBrains_1.svg" alt="Built with JetBrains IDEs" width="64">
 </a>
